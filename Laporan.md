@@ -32,7 +32,7 @@ Konfigurasi server dapat diubah di file config yang telah dibuat atau dari remot
  Berikut adalah setting yang dapat diubah : 
 
 ### Engine setting
-<sup>[1]([1])</sup>
+<sup>[1](#Referensi)</sup>
 *: tidak bisa diubah selama server berjalan
 
 
@@ -94,7 +94,7 @@ Konfigurasi server dapat diubah di file config yang telah dibuat atau dari remot
 
 ## Tuning
 
-Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin diganti, set gametype menjadi mod dengan sv_gametype mod.<sup>[2]([2])</sup>
+Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin diganti, set gametype menjadi mod dengan sv_gametype mod.<sup>[2](#Referensi)</sup>
 
 ### Physics tuning
 |Tuning|Description|Default|Unit|
