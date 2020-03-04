@@ -1,4 +1,3 @@
-
 <h1 align="center"><img src="https://www.teeworlds.com/images/twlogo.png"></h1>
 
 * [Sekilas Tentang](#sekilas-tentang) 
@@ -20,18 +19,20 @@ Teeworlds adalah sebuah game *retro multiplayer sidescrolling shooter* yang grat
 
 # Instalasi
 
-(isi ini fidz)
+OS yang bisa menjalankan server adalah Windows, Linux, dan Mac. Download file Teeworlds sesuai OS yang digunakan.
+
+Sebelum menjalankan server, anda harus membuat file config( .cfg) terlebih dahulu untuk dibaca oleh program server.
 
 # Konfigurasi
 
-Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atur konfigurasi tersebut.
+Konfigurasi server dapat diubah di file config yang telah dibuat atau dari remote console client. Untuk membuka remote console tekan f2 lalu masukkan password yang di setel di config. Jika tidak di setel, akan dibuat secara otomatis. Cek di server log untuk password anda.
 
 ## Setting
 
  Berikut adalah setting yang dapat diubah : 
 
 ### Engine setting
-<sup>[1]</sup>
+<sup>[1]([1])</sup>
 *: tidak bisa diubah selama server berjalan
 
 
@@ -93,7 +94,7 @@ Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atu
 
 ## Tuning
 
-Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin diganti, set gametype menjadi mod dengan sv_gametype mod.<sup>[2]</sup>
+Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin diganti, set gametype menjadi mod dengan sv_gametype mod.<sup>[2]([2])</sup>
 
 ### Physics tuning
 |Tuning|Description|Default|Unit|
