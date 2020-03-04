@@ -141,18 +141,17 @@ Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin digan
 
 # Cara Pemakaian
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
+<h1 align="center"><img src="https://github.com/hafizh1234/Komdat/blob/master/Komdat_twMainMenu.png"></h1>
+Diatas adalah tampilan main menu dari Teeworlds. ...
+<h1 align="center"><img src="https://github.com/hafizh1234/Komdat/blob/master/Komdat_twLocalServerList.png"></h1>
+Di Server list local, ditampilkan server-server yang ada di network local. jika sudah dijalankan namun tidak terlihat, anda dapat langsung masuk menggunakan host address yang dimasukkan di bagian bawah. 
+<h1 align="center"><img src="https://github.com/hafizh1234/Komdat/blob/master/Komdat_twPlay.png"></h1>
+Diatas adalah tampilan sebuah server dalam Teeworlds. dalam satu server dapat menampung paling banyak 16 pemain. Di game ini juga ada berbagai tipe game seperti : DeathMatch, Control The Flag, Team DeathMatch, dan lain-lain. tipe game dapat diset oleh Host melewati config server atau remote console
 Buka aplikasi client Teeworlds yang sudah di download
 
 # Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+Dibandingin sama apa? minecraft??
 
 
 # Referensi
