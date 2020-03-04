@@ -18,7 +18,7 @@
 
 Teeworlds adalah sebuah game *retro multiplayer sidescrolling shooter* yang gratis dan *open source*.
 
-# Instalasi()
+# Instalasi
 
 (isi ini fidz)
 
@@ -30,7 +30,8 @@ Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atu
 
  Berikut adalah setting yang dapat diubah : 
 
-### Engine setting<sup>[1]</sup>
+### Engine setting
+<sup>[1]</sup>
 *: tidak bisa diubah selama server berjalan
 
 
