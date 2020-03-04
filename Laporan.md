@@ -30,7 +30,8 @@ Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atu
 
  Berikut adalah setting yang dapat diubah : 
 
-### Engine setting<sup>[1]</sup>
+### Engine setting
+<sup>[1]</sup>
 *: tidak bisa diubah selama server berjalan
 
 
@@ -137,7 +138,7 @@ Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin digan
 
 
 
-# Cara Pemakaian ()
+# Cara Pemakaian
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
@@ -145,7 +146,7 @@ Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin digan
 
 Buka aplikasi client Teeworlds yang sudah di download
 
-# Pembahasan ()
+# Pembahasan
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
