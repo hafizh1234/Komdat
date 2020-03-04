@@ -1,24 +1,36 @@
-# Aplikasi Web "XYZ"
 
+<h1 align="center"><img src="https://www.teeworlds.com/images/twlogo.png"></h1>
 
-## Sekilas Tentang
+* [Sekilas Tentang](#sekilas-tentang) 
+* [Instalasi](#instalasi) 
+* [Konfigurasi](#konfigurasi) 
+	* [Setting](##Setting)
+		* [Engine setting](###Engine-setting)
+		* [Game setting](###Game-setting)
+	* [Tuning](##Tuning)
+		* [Physics tuning](###Physics-tuning)
+		* [Weapons tuning](###Weapons-tuning)
+* [Cara Pemakaian](#cara-pemakaian) 
+* [Pembahasan](#pembahasan) 
+* [Referensi](#referensi)
 
-Teeworlds adalah game retro 16 player multiplayer shooter dengan beberapa game mode yang bisa dimainkan.
+# Sekilas Tentang
 
-## Instalasi
+Teeworlds adalah sebuah game *retro multiplayer sidescrolling shooter* yang gratis dan *open source*.
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Download versi Teeworld yang sesuai dengan OS anda dari website
-- Anda harus membuat file config( .cfg) terlebih dahulu sebelum menjalankan server
-- Langkah instalasi dalam CLI.
-- Pindah ke direktori dimana file konfigurasi yang anda sudah buat
-- teeworlds_srv -f [Nama Config].cfg
+# Instalasi()
 
-## Konfigurasi
+(isi ini fidz)
 
-Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atur konfigurasi tersebut. Berikut adalah setting yang dapat diubah : 
+# Konfigurasi
 
-**Engine setting**<sup>[1]</sup>
+Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atur konfigurasi tersebut.
+
+## Setting
+
+ Berikut adalah setting yang dapat diubah : 
+
+### Engine setting<sup>[1]</sup>
 *: tidak bisa diubah selama server berjalan
 
 
@@ -48,7 +60,7 @@ Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atu
 |ec_auth_timeout|Time in seconds before the the econ authentication times out|30|
 |ec_output_level|Adjusts the amount of information in the external console|1|
 
-**Game setting**
+### Game setting
 |Settings|Description|Default|
 |--- |--- |--- |
 |sv_warmup|Warmup time between rounds|0|
@@ -78,9 +90,11 @@ Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atu
 |sv_vote_spectate|Allow voting to move players to spectators|1|
 |sv_vote_spectate_rejoindelay|How many minutes to wait before a player can rejoin after being moved to spectators by vote|3|
 
+## Tuning
+
 Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin diganti, set gametype menjadi mod dengan sv_gametype mod.<sup>[2]</sup>
 
-**Physics Tuning**
+### Physics tuning
 |Tuning|Description|Default|Unit|
 |--- |--- |--- |--- |
 |ground_control_speed|Max speed the tee can get on ground|10.0||
@@ -101,7 +115,7 @@ Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin digan
 |velramp_curvature|Velocity ramp curvature|1.4||
 |player_collision|Enable player collisions|1||
 |player_hooking|Enable player vs player hooking|1||
-**Weapons Tuning**
+### Weapons tuning
 |Tuning|Description|Default|Unit|
 |--- |--- |--- |--- |
 |gun_curvature|Gun curvature|1.25||
@@ -123,14 +137,15 @@ Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin digan
 
 
 
-## Cara Pemakaian ()
+# Cara Pemakaian ()
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
+Buka aplikasi client Teeworlds yang sudah di download
 
-## Pembahasan ()
+# Pembahasan ()
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
@@ -138,7 +153,7 @@ Tuning hanya dapat bisa diubah jika gametype nya bukan vanilla. Jika ingin digan
 - Bandingkan dengan aplikasi web lain yang sejenis
 
 
-## Referensi
+# Referensi
 
 [1] : https://www.teeworlds.com/?page=docs&wiki=server_settings
 
