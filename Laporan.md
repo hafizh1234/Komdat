@@ -30,8 +30,7 @@ Tidak seperti aplikasi yang lain, untuk menjalankan server Teeworld harus di atu
 
  Berikut adalah setting yang dapat diubah : 
 
-### Engine setting
-<sup>[1]</sup>
+### Engine setting<sup>[1]</sup>
 *: tidak bisa diubah selama server berjalan
 
 
